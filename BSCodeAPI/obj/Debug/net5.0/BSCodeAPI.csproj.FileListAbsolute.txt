@@ -1,0 +1,196 @@
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeModels_Lib.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\appsettings.json
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.exe
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.deps.json
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.runtimeconfig.json
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.runtimeconfig.dev.json
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\ref\BSCodeAPI.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.pdb
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Humanizer.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeModels_Lib.pdb
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.csproj.AssemblyReference.cache
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.AssemblyInfoInputs.cache
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.AssemblyInfo.cs
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.csproj.CoreCompileInputs.cache
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\scopedcss\bundle\BSCodeAPI.styles.css
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\staticwebassets\BSCodeAPI.StaticWebAssets.Manifest.cache
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.RazorTargetAssemblyInfo.cache
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.csproj.CopyComplete
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\ref\BSCodeAPI.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.pdb
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.genruntimeconfig.cache
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\CodeAcademy\Development3\BS\BScodeApp\BSCodeAPI\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.AssemblyInfo.cs
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\ref\BSCodeAPI.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.pdb
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.exe
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.deps.json
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.runtimeconfig.json
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.runtimeconfig.dev.json
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\ref\BSCodeAPI.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.pdb
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeModels_Lib.dll
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeModels_Lib.pdb
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\scopedcss\bundle\BSCodeAPI.styles.css
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\staticwebassets\BSCodeAPI.StaticWebAssets.Manifest.cache
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.csproj.CopyComplete
+C:\Users\pc\Desktop\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.genruntimeconfig.cache
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.exe
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.deps.json
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.runtimeconfig.json
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.runtimeconfig.dev.json
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\ref\BSCodeAPI.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeAPI.pdb
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeModels_Lib.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\bin\Debug\net5.0\BSCodeModels_Lib.pdb
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.csproj.AssemblyReference.cache
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.AssemblyInfoInputs.cache
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.AssemblyInfo.cs
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\staticwebassets\BSCodeAPI.StaticWebAssets.Manifest.cache
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\staticwebassets\BSCodeAPI.StaticWebAssets.xml
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\scopedcss\bundle\BSCodeAPI.styles.css
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.csproj.CopyComplete
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\ref\BSCodeAPI.dll
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.pdb
+C:\Users\Fatmir\OneDrive\Desktop\BsCode Final Project 4\BsCode Final Project 4\BSCodeApp\BSCodeAPI\obj\Debug\net5.0\BSCodeAPI.genruntimeconfig.cache
